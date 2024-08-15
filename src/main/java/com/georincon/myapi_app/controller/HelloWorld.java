@@ -10,7 +10,7 @@ public class HelloWorld {
 
     @GetMapping
     public String helloWorld() {
-        return "¡Hello World!" + " Mi primer API";
+        return "Rama prueba";
     }
 
 
